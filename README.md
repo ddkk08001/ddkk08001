@@ -12,6 +12,7 @@ RTX3070
 Windows 11
 
 - Mac
+
 Intel i5 duel core processor
 
 RAM 4GB
