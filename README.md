@@ -4,4 +4,4 @@
 I'm developer ddkk08, Seunghyun from South Korea!
 
 주 사용언어(Main Language): HTML/CSS/JS, C#(Unity) <br/>
-보조 사용언어 (Sub Language): Python, PHP, Java
+보조 사용언어 (Sub Language): Python, PHP(Learning), Java, C++(Unreal Engine)
