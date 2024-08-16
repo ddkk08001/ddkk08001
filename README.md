@@ -1,7 +1,8 @@
 ### Hello World! :)
+### 위클리 Weekly 소속
 
 안녕하세요! 닉: ddkk08 로 활동하고 있는 김승현입니다. <br/>
 I'm a developer ddkk08, Seunghyun from South Korea!
 
 주 사용언어(Main Language): HTML/CSS/JS, C#(Unity) <br/>
-보조 사용언어 (Sub Language): Python, PHP(Learning), Java, C++(Unreal Engine)
+보조 사용언어 (Sub Language): Python(Learning), PHP(Learning), Java, C++(Unreal Engine)
