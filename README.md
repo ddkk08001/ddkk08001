@@ -1,4 +1,4 @@
-### Hello World! :)
+### Hello World!
 ### 위클리 Weekly 소속
 
 안녕하세요! 닉: ddkk08 로 활동하고 있는 김승현입니다. <br/>
